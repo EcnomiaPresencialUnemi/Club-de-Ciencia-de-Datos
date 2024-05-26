@@ -1,6 +1,6 @@
 # Descripción de las variables de `BWGHT.RAW`.
 
-La data BWGHT.csv se utiliza principalmente para analizar los efectos de varios factores socioeconómicos y de comportamiento de la madre durante el embarazo en el peso al nacer del bebé. 
+La data BWGHT.RAW se utiliza principalmente para analizar los efectos de varios factores socioeconómicos y de comportamiento de la madre durante el embarazo en el peso al nacer del bebé. 
 Contiene las siguientes variables:
 
 
